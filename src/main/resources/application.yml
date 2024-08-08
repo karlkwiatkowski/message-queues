@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: message-queues
+  kafka:
+    bootstrap-servers: localhost:9092
